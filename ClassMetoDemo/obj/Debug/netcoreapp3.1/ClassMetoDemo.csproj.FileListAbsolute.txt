@@ -1,0 +1,13 @@
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\bin\Debug\netcoreapp3.1\ClassMetoDemo.exe
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\bin\Debug\netcoreapp3.1\ClassMetoDemo.deps.json
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\bin\Debug\netcoreapp3.1\ClassMetoDemo.runtimeconfig.json
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\bin\Debug\netcoreapp3.1\ClassMetoDemo.runtimeconfig.dev.json
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\bin\Debug\netcoreapp3.1\ClassMetoDemo.dll
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\bin\Debug\netcoreapp3.1\ClassMetoDemo.pdb
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\obj\Debug\netcoreapp3.1\ClassMetoDemo.csprojAssemblyReference.cache
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\obj\Debug\netcoreapp3.1\ClassMetoDemo.AssemblyInfoInputs.cache
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\obj\Debug\netcoreapp3.1\ClassMetoDemo.AssemblyInfo.cs
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\obj\Debug\netcoreapp3.1\ClassMetoDemo.csproj.CoreCompileInputs.cache
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\obj\Debug\netcoreapp3.1\ClassMetoDemo.dll
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\obj\Debug\netcoreapp3.1\ClassMetoDemo.pdb
+C:\Users\IŞIL\source\repos\ClassMetoDemo\ClassMetoDemo\obj\Debug\netcoreapp3.1\ClassMetoDemo.genruntimeconfig.cache
